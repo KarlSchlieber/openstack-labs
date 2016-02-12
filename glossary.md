@@ -25,6 +25,7 @@ Twitter:  https://twitter.com/OpenStack
 Atest [5] This is a test.
 - **ASIC** [4] Application-specific integrated circuit - makes possible fastest switching and routing on HW basis
 - **Aurelius’** - A new and power OpenStack service, this service interrogates all other services to ensure their logic is stoic, sound and virtuous.
+- **Karl** [1] This is my attempt to edit the file
 - **Austin** [1] The first release of OpenStack was called Austin. Unsurprisingly, the first design summit took place in this capital city of Texas. OpenStack versions are short lived, and the release dates are aggressive (about 2 new releases a year). Generally, a customer will fork an OpenStack release version, and stick with it.
 - **Authentication Token** [5] The identity service (Keystone) first confirms the identity of a user, process, or client; authorized because they've provided a private key, token, password, fingerprint, or similar security mechanism. The authentication token is a string of text returned to the user that is then included with a subsequent API request.
 - **Back End** [1] Any processes that are obfuscated from the user. Think daemons waiting in the background waiting for requests, or carrying out tasks in response to messages in a queue; an example might be the creation and deletion of volumes on storage arrays, or passing tokens with API calls.
